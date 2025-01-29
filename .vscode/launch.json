@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Helloworld",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\HelloWorld\\Helloworld\\Helloworld.csproj",
+            "launchConfigurationId": "TargetFramework=;Helloworld"
+        }
+    ]
+}

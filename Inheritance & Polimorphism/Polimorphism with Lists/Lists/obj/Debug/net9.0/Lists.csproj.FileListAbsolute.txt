@@ -1,0 +1,15 @@
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\bin\Debug\net9.0\Lists.exe
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\bin\Debug\net9.0\Lists.deps.json
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\bin\Debug\net9.0\Lists.runtimeconfig.json
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\bin\Debug\net9.0\Lists.dll
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\bin\Debug\net9.0\Lists.pdb
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\Lists.AssemblyInfoInputs.cache
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\Lists.AssemblyInfo.cs
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\Lists.csproj.CoreCompileInputs.cache
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\Lists.sourcelink.json
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\Lists.dll
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\refint\Lists.dll
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\Lists.pdb
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\Lists.genruntimeconfig.cache
+D:\C#\Inheritance & Polimorphism\Polimorphism with Lists\Lists\obj\Debug\net9.0\ref\Lists.dll

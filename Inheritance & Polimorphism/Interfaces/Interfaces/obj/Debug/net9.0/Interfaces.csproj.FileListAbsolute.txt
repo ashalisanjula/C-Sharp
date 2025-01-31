@@ -1,0 +1,15 @@
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.exe
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.deps.json
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.runtimeconfig.json
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.dll
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\bin\Debug\net9.0\Interfaces.pdb
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfoInputs.cache
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.AssemblyInfo.cs
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.sourcelink.json
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.dll
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\refint\Interfaces.dll
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.pdb
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\Interfaces.genruntimeconfig.cache
+D:\C#\Inheritance & Polimorphism\Interfaces\Interfaces\obj\Debug\net9.0\ref\Interfaces.dll
